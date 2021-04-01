@@ -9,11 +9,12 @@
 //The input string is Vidyavardhaka
 
 #include <stdio.h>
+
 int main() 
 {
  char str[20];                    //Declare the string
 printf("Enter a String: ");
  scanf("%s",str);
- printf("the enter a string is %s",str);                    
+ printf("The input string is %s",str);                    
 return 0;
 }
